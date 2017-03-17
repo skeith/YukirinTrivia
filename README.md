@@ -12,5 +12,5 @@ Add question per line with this format (separating question and answers with a b
 
 &nbsp;  
 ## Requirements
-Each trivia must at least includes more than 100 questions before it can be used on the Bot
+Each trivia must at least includes more than 300 questions before it can be used on the Bot
 
